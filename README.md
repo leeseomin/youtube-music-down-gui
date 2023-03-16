@@ -1,4 +1,4 @@
-# youtube music downloader gui
+# :o: youtube music downloader gui
 
 ### Download music by entering YouTube links  :  based on yt-dlp
 
